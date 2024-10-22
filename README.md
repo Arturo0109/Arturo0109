@@ -7,7 +7,7 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,android,git" />
+    <img src="https://skillicons.dev/icons?i=github,git" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java" />
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java, javascript, firebase, sql" />
   </a>
 </p>
 ---
