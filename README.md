@@ -8,7 +8,7 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,cpp" />
   </a>
 </p>
 
