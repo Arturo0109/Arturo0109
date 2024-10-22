@@ -1,26 +1,33 @@
-# 👋 ¡Hola! Soy Arturo0109
+# 👋 ¡Hola! Soy Juan Pablo Arturo 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-🚀 **Desarrollador Creativo en Formación** | Buga, Valle del Cauca, Colombia  
-📱 **Amante de la Tecnología Móvil, Realidad Aumentada y Proyectos Innovadores**  
+🚀 **Programador Junior en Formación** | Buga, Valle del Cauca, Colombia  
+📱 **Amante de la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Front-End**  
 
 Me apasiona combinar tecnología y creatividad para construir soluciones que conecten el mundo digital con el físico. Estoy enfocado en proyectos que transforman entornos urbanos y culturales a través de la realidad aumentada y la interactividad.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ---
 
 ## 💡 _Sobre mí_
-✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Actualmente, estoy trabajando en proyectos que utilizan **tecnología interactiva** y **realidad aumentada** para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
+✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Actualmente, me ecnuentro ealizando mis practicas en la Alcaldía municipal de Guadalajara de Buga en la cual estoy trabajando en proyectos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
 
-🌍 Vivo en una ciudad histórica y, a través de la tecnología, estoy contribuyendo al embellecimiento de su centro cultural con herramientas innovadoras.
+🌍 Vivo en una ciudad histórica y, a través de la tecnología, estoy contribuyendo al embellecimiento de su centro cultural.
 
 ---
 
 ## 🔧 _Áreas de experiencia_
-- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS
-- 🚀 **Frameworks**: React, React Native, Expo, Android Studio
-- 💾 **Bases de datos**: MySQL, Firebase
-- 🎨 **Diseño UX/UI**: Figma, Adobe XD
-- 🛠️ **Herramientas**: Git, GitHub, VSCode
-- 📲 **Desarrollo móvil**: Android con Java, Expo para aplicaciones multiplataforma
+- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++, Scheme.
+- 🚀 **Frameworks**: React, React Native, Expo.
+- 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.
+- 🎨 **Diseño UX/UI**: Figma.
+- 🛠️ **versionamiento**: Git, GitHub, VSCode
+- 📲 **Desarrollo móvil**: Android con Java, Android Studio, Expo para aplicaciones multiplataforma
 - 🧑‍💻 **Metodologías**: Scrum, gestión ágil de proyectos
 
 ---
@@ -28,13 +35,14 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 ## 🚀 _Proyectos destacados_
 
 ### 🌆 **SGU (Sistema de Gestión Urbana)**
-🔗 [Repositorio de SGU](enlace)  
+🔗 [Repositorio de SGU](https://github.com/Juandoqg/SGU.git)  
 _Desarrollo de una aplicación móvil en Expo que gestiona la administración urbana y conecta a los ciudadanos con zonas interactivas en Buga. Utiliza **React Native** y **Firebase** para manejar la gestión de datos y la interacción con usuarios._
+###  **Simple ChatBot**
+🔗 [Repositorio de SGU](https://github.com/Arturo0109/Chatbot.git)  
+_Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
 
 ---
 
-### 🏞️ **Ruta Interactiva de Buga**  
-_Proyecto en colaboración con la municipalidad para integrar **realidad aumentada** en el turismo de Buga. Los visitantes pueden interactuar con puntos históricos a través de estaciones tecnológicas ubicadas en el centro de la ciudad._
 
 ---
 
