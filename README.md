@@ -43,7 +43,7 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 🔗 [Repositorio de SGU](https://github.com/Juandoqg/SGU.git)  
 _Desarrollo de una aplicación móvil en Expo que gestiona la administración urbana y conecta a los ciudadanos con zonas interactivas en Buga. Utiliza **React Native** y **Firebase** para manejar la gestión de datos y la interacción con usuarios._
 ###  **Simple ChatBot**
-🔗 [Repositorio de SGU](https://github.com/Arturo0109/Chatbot.git)  
+🔗 [Repositorio](https://github.com/Arturo0109/Chatbot.git)  
 _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
 
 ---
