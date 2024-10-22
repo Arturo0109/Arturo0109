@@ -1,5 +1,4 @@
 # 👋 ¡Hola! Soy Juan Pablo Arturo 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,flutter=3)](https://skillicons.dev)
 
 🚀 **Programador Junior en Formación** | Buga, Valle del Cauca, Colombia  
 📱 **Amante de la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Front-End**  
@@ -8,7 +7,7 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,cpp" />
+    <img src="https://skillicons.dev/icons?i=github,android,git" />
   </a>
 </p>
 
@@ -26,10 +25,16 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 - 🚀 **Frameworks**: React, React Native, Expo.
 - 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.
 - 🎨 **Diseño UX/UI**: Figma.
-- 🛠️ **versionamiento**: Git, GitHub, VSCode
+- 🛠️ **versionamiento**: Git, GitHub.
 - 📲 **Desarrollo móvil**: Android con Java, Android Studio, Expo para aplicaciones multiplataforma
 - 🧑‍💻 **Metodologías**: Scrum, gestión ágil de proyectos
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java" />
+  </a>
+</p>
 ---
 
 ## 🚀 _Proyectos destacados_
