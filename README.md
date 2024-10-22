@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Juan Pablo Arturo 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,flutter=3)](https://skillicons.dev)
 
 🚀 **Programador Junior en Formación** | Buga, Valle del Cauca, Colombia  
 📱 **Amante de la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Front-End**  
