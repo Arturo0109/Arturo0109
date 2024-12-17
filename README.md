@@ -3,7 +3,7 @@
 🚀 **Programador Junior en Formación** | Buga, Valle del Cauca, Colombia  
 📱 **Amante de la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Front-End**  
 
-Me apasiona combinar tecnología y creatividad para construir soluciones que conecten el mundo digital con el físico. Estoy enfocado en proyectos que transforman entornos urbanos y culturales a través de la realidad aumentada y la interactividad.
+Me gusta combinar tecnología y creatividad para construir soluciones que conecten el mundo digital con el físico. Estoy enfocado en proyectos que transforman entornos urbanos y culturales a través de la interactividad.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,18 +21,18 @@ Me apasiona combinar tecnología y creatividad para construir soluciones que con
 ---
 
 ## 🔧 _Áreas de experiencia_
-- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++, Scheme.
+- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++, .
 - 🚀 **Frameworks**: React, React Native, Expo.
 - 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.
-- 🎨 **Diseño UX/UI**: Figma.
-- 🛠️ **versionamiento**: Git, GitHub.
+- 🎨 **Diseño UX/UI**: Figma y Freamer.
+- 🛠️ **versionamiento**: Git, GitHub. GitLab.
 - 📲 **Desarrollo móvil**: Android con Java, Android Studio, Expo para aplicaciones multiplataforma
-- 🧑‍💻 **Metodologías**: Scrum, gestión ágil de proyectos
+- 🧑‍💻 **Metodologías**: Scrum, PairProgramming
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java." />
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java, html, css." />
   </a>
 </p>
 ---
