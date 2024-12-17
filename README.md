@@ -32,7 +32,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java, HTML, CSS" />
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java" />
   </a>
 </p>
 ---
@@ -80,6 +80,14 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
 ## 🌐 _Conéctate conmigo_
 - 🔗 [LinkedIn](enlace-a-tu-perfil)
 - 🐦 [Twitter](enlace)
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=CSS,HTML,Mysql" />
+  </a>
+</p>
 
 ---
 
