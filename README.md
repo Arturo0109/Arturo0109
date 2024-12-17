@@ -36,8 +36,6 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
   </a>
 </p>
 
----
-
 ## 🚀 _Proyectos destacados_
 
 ### 🌆 **SGU (Sistema de Gestión Urbana)**
@@ -47,10 +45,7 @@ _Desarrollo de una aplicación móvil en Expo que gestiona la administración ur
 🔗 [Repositorio](https://github.com/Arturo0109/Chatbot.git)  
 _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
 
----
 
-
----
 
 ### 📅 **Aplicación de Agenda (Android)**  
 _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una interfaz simple con recordatorios y listas de tareas, mejorando la organización diaria._
@@ -86,7 +81,7 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=CSS,HTML,Mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase " />
   </a>
 </p>
 
