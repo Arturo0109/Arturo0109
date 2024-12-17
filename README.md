@@ -32,7 +32,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java, html, css." />
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java, HTML, CSS" />
   </a>
 </p>
 ---
