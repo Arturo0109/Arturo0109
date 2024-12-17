@@ -11,7 +11,6 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
   </a>
 </p>
 
----
 
 ## 💡 _Sobre mí_
 ✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Actualmente, me ecnuentro ealizando mis practicas en la Alcaldía municipal de Guadalajara de Buga en la cual estoy trabajando en proyectos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
@@ -50,7 +49,6 @@ _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cual
 ### 📅 **Aplicación de Agenda (Android)**  
 _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una interfaz simple con recordatorios y listas de tareas, mejorando la organización diaria._
 
----
 
 ## 🎓 _Formación_
 
@@ -61,23 +59,13 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
 - 📱 **Taller de React Native y Expo**
    - Desarrollando aplicaciones móviles optimizadas con **Expo**, aplicando las mejores prácticas de rendimiento.
 
----
 
 ## 🎯 _Objetivos profesionales_
 🚀 Mi misión es seguir aprendiendo y creciendo como desarrollador, explorando nuevas tecnologías y creando soluciones tecnológicas que impacten mi comunidad. **Mi objetivo a largo plazo** es especializarme en **realidad aumentada** y **desarrollo móvil**, integrando tecnología con el entorno urbano y turístico.
 
----
 
 ## 🧠 _Siempre aprendiendo_
 📚 Me apasiona estar al día con las últimas tecnologías y siempre estoy trabajando en nuevos proyectos. ¡No dudes en echar un vistazo a mis repositorios y ver en qué estoy trabajando!
-
----
-
-## 🌐 _Conéctate conmigo_
-- 🔗 [LinkedIn](enlace-a-tu-perfil)
-- 🐦 [Twitter](enlace)
-
----
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -85,6 +73,13 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
   </a>
 </p>
 
----
+## 🌐 _Conéctate conmigo_
+- 🔗 [LinkedIn](enlace-a-tu-perfil)
+- 🐦 [Twitter](enlace)
+
+
+
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arturo0109&show_icons=true&theme=radical)
