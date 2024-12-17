@@ -35,6 +35,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
     <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java" />
   </a>
 </p>
+
 ---
 
 ## 🚀 _Proyectos destacados_
