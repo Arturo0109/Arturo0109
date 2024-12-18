@@ -43,15 +43,11 @@ _Desarrollo de una aplicación móvil en Expo que gestiona la administración ur
 ###  **Simple ChatBot**
 🔗 [Repositorio](https://github.com/Arturo0109/Chatbot.git)  
 _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
-
-
-
 ### 📅 **Aplicación de Agenda (Android)**  
 _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una interfaz simple con recordatorios y listas de tareas, mejorando la organización diaria._
 
 
 ## 🎓 _Formación_
-
 - 🎓 **Estudiante en Talleres de Desarrollo en Android Studio**
    - Desarrollo de funcionalidades como _Ingresar Usuario, Ver Registros, Editar Registro_ con **Java** y múltiples _activities_.
 - 🌱 **Curso de HTML, CSS y JavaScript** _(en progreso)_
