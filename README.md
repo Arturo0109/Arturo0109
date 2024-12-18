@@ -17,7 +17,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 🌍 Vivo en una ciudad histórica y, a través de la tecnología, estoy contribuyendo al embellecimiento de su centro cultural.
 
----
+
 
 ## 🔧 _Áreas de experiencia_
 - 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.
