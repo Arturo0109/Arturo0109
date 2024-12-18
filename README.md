@@ -20,12 +20,12 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 ---
 
 ## 🔧 _Áreas de experiencia_
-- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++, .
-- 🚀 **Frameworks**: React, React Native, Expo.
+- 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.
+- 🚀 **Frameworks**: React, Vue.
 - 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.
 - 🎨 **Diseño UX/UI**: Figma y Freamer.
 - 🛠️ **versionamiento**: Git, GitHub. GitLab.
-- 📲 **Desarrollo móvil**: Android con Java, Android Studio, Expo para aplicaciones multiplataforma
+- 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter
 - 🧑‍💻 **Metodologías**: Scrum, PairProgramming
 
 
@@ -55,7 +55,6 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
 - 🎓 **Estudiante en Talleres de Desarrollo en Android Studio**
    - Desarrollo de funcionalidades como _Ingresar Usuario, Ver Registros, Editar Registro_ con **Java** y múltiples _activities_.
 - 🌱 **Curso de HTML, CSS y JavaScript** _(en progreso)_
-   - Explorando el uso de **CSS Grid** y la propiedad `position` para el diseño de interfaces web dinámicas.
 - 📱 **Taller de React Native y Expo**
    - Desarrollando aplicaciones móviles optimizadas con **Expo**, aplicando las mejores prácticas de rendimiento.
 
