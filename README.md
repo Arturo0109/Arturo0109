@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan Pablo Arturo 
 
-🚀 **Programador Junior en Formación** | Buga, Valle del Cauca, Colombia  
-📱 **Amante de la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Front-End**  
+🚀 **Programador Junior** | Buga, Valle del Cauca, Colombia  
+📱 **Amante de la Tecnología Móvil, Proyectos Innovadores y Full Stack**  
 
 Me gusta combinar tecnología y creatividad para construir soluciones que conecten el mundo digital con el físico. Estoy enfocado en proyectos que transforman entornos urbanos y culturales a través de la interactividad.
 
