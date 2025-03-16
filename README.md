@@ -25,7 +25,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 - 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud, GraphQL.
 - 🎨 **Diseño UX/UI**: Figma y Freamer.
 - 🛠️ **versionamiento**: Git, GitHub. GitLab.
-- 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter
+- 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter.
 - 🧑‍💻 **Metodologías**: Scrum, PairProgramming
 
 
