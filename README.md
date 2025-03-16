@@ -21,8 +21,8 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 ## 🔧 _Áreas de experiencia_
 - 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.
-- 🚀 **Frameworks**: React, Vue.
-- 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.
+- 🚀 **Frameworks**: React, Vue, Angular.
+- 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud, GraphQL.
 - 🎨 **Diseño UX/UI**: Figma y Freamer.
 - 🛠️ **versionamiento**: Git, GitHub. GitLab.
 - 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter
