@@ -63,7 +63,7 @@ _App desarrollada en **Java** para gestionar usuarios y tareas. Integra una inte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase, js , ts " />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase, javascript , ts " />
   </a>
 </p>
 
