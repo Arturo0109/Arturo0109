@@ -14,8 +14,7 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 ## 💡 _Sobre mí_
 ✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Realice mis prácticas en la secretaria de las TIC en la alcaldía municipal de Guadalajara de buga. 
-En la cual estoy trabajando en proyectos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
-
+En la cual trabaje como desarrollador fullstack en proyectos internos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
 
 
 
