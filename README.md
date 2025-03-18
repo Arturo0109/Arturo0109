@@ -13,7 +13,8 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 
 
 ## 💡 _Sobre mí_
-✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Actualmente, me ecnuentro ealizando mis practicas en la Alcaldía municipal de Guadalajara de Buga en la cual estoy trabajando en proyectos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
+✨ Soy un desarrollador con una fuerte inclinación hacia la innovación tecnológica. Realice mis prácticas en la secretaria de las TIC en la alcaldía municipal de Guadalajara de buga. 
+En la cual estoy trabajando en proyectos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
 
 
 
@@ -42,8 +43,6 @@ _Desarrollo de una aplicación móvil en Expo que gestiona la administración ur
 ###  **Simple ChatBot**
 🔗 [Repositorio](https://github.com/Arturo0109/Chatbot.git)  
 _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
-### 📅 **Aplicación de Agenda (Android)**  
-_App desarrollada en **Java** para gestionar usuarios y tareas. Integra una interfaz simple con recordatorios y listas de tareas, mejorando la organización diaria._
 
 
 ## 🎓 _Formación_
