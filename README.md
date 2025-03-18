@@ -45,8 +45,8 @@ _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cual
 
 
 ## 🎓 _Formación_
-- 🎓 **Estudiante en Talleres de Desarrollo en Android Studio**
-   - Desarrollo de funcionalidades como _Ingresar Usuario, Ver Registros, Editar Registro_ con **Java** y múltiples _activities_.
+- 🎓 **Tecnologia en desarrollo de software - Univalle**
+   - Soy un profesional en Desarrollo de Software, capaz de resolver problemas mediante software, diseño de interacciones y gestión de infraestructura TIC. Me mantengo actualizado para desempeñarme en cualquier lugar del mundo.
 - 🌱 **Curso de HTML, CSS y JavaScript** _(en progreso)_
 - 📱 **Taller de React Native y Expo**
    - Desarrollando aplicaciones móviles optimizadas con **Expo**, aplicando las mejores prácticas de rendimiento.
