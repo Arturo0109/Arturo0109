@@ -5,7 +5,7 @@
 
 Me gusta combinar tecnología y creatividad para construir soluciones que conecten el mundo digital con el físico. Estoy enfocado en proyectos que transforman entornos urbanos y culturales a través de la interactividad.
 
-<p align="center">
+<p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" />
   </a>
