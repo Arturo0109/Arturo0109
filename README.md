@@ -38,7 +38,7 @@ _Desarrollo de una aplicación móvil en Expo que gestiona la administración ur
 🔗 [Repositorio](https://github.com/Arturo0109/Chatbot.git)  
 _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable._
 
- 
+
 ## 🎓 _Formación_
 
 - 🎓 **Tecnologia en desarrollo de software - Univalle**
