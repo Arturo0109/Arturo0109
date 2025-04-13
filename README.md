@@ -14,7 +14,6 @@ Me gusta combinar tecnología y creatividad para construir soluciones que conect
 En la cual trabaje como desarrollador fullstack en proyectos internos que utilizan **tecnología interactiva** y para transformar el entorno urbano de **Buga**. Me fascina la idea de crear experiencias tecnológicas inmersivas que puedan mejorar la vida de las personas.
 
 
-
 ## 🔧 _Áreas de experiencia_
 - 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.
 - 🚀 **Frameworks**: React, Vue, Angular.
