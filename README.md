@@ -23,7 +23,6 @@ En la cual trabaje como desarrollador fullstack en proyectos internos que utiliz
 - 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter.
 - 🧑‍💻 **Metodologías**: Scrum, PairProgramming
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,androidstudio,react,java" />
