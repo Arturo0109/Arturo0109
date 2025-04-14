@@ -56,7 +56,7 @@ TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
 
 ## 🧠 _Siempre aprendiendo_
 📚 Me apasiona estar al día con las últimas tecnologías y siempre estoy trabajando en nuevos proyectos. ¡No dudes en echar un vistazo a mis repositorios y ver en qué estoy trabajando!
-
+ 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts" />
