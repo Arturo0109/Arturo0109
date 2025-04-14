@@ -69,6 +69,4 @@ TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
 
 
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arturo0109&show_icons=true&theme=radical)
