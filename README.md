@@ -45,7 +45,9 @@ _Este de desarrollo es de un simple chatbot de respuestas ya cerradas y las cual
    - Soy un profesional en Desarrollo de Software, capaz de resolver problemas mediante software, diseño de interacciones y gestión de infraestructura TIC. Me mantengo actualizado para desempeñarme en cualquier lugar del mundo.
      
 - 🌱 **APLICACION DEL MARCO DE
-TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA** 
+TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
+- Controlar la calidad del servicio de software deacuerdo con los estándares técnicos
+
 - 📱 **Taller de React Native y Expo**
    - Desarrollando aplicaciones móviles optimizadas con **Expo**, aplicando las mejores prácticas de rendimiento.
 
