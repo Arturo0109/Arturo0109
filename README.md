@@ -16,11 +16,11 @@ En la cual trabaje como desarrollador fullstack en proyectos internos que utiliz
 
 ## 🔧 _Áreas de experiencia_
 - 🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.
-- 🚀 **Frameworks**: React, Vue, Angular.
+- 🚀 **Frameworks**: React.
 - 💾 **Bases de datos**: MySQL, Firebase, GoogleCloud, GraphQL.
 - 🎨 **Diseño UX/UI**: Figma y Freamer.
 - 🛠️ **versionamiento**: Git, GitHub. GitLab.
-- 📲 **Desarrollo móvil**: Android Studio, Expo, React Native, Flutter.
+- 📲 **Desarrollo móvil**: Android Studio, Expo, React Native.
 - 🧑‍💻 **Metodologías**: Scrum, PairProgramming
 
 <p align="center">
