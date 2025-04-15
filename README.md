@@ -69,6 +69,3 @@ TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
 ## 🌐 _Conéctate conmigo_
 - 🔗 [LinkedIn](enlace-a-tu-perfil)
 - 🐦 [Twitter](enlace)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arturo0109&show_icons=true&theme=radical)
