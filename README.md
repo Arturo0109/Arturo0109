@@ -52,8 +52,9 @@ TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
    - Desarrollando aplicaciones móviles optimizadas con **Expo**, aplicando las mejores prácticas de rendimiento.
 
 
+
 ## 🎯 _Objetivos profesionales_
-🚀 Mi misión es seguir aprendiendo y creciendo como desarrollador, explorando nuevas tecnologías y creando soluciones tecnológicas que impacten mi comunidad. **Mi objetivo a largo plazo** es especializarme en **realidad aumentada** y **desarrollo móvil**, integrando tecnología con el entorno urbano y turístico.
+🚀 Mi misión es seguir aprendiendo y creciendo como desarrollador, explorando nuevas tecnologías y creando soluciones tecnológicas que impacten mi comunidad. **Mi objetivo a largo plazo** es especializarme en **desarrollo móvil**,y ser un **Full-Stack** para de esta manera seguir integrando tecnología con el entorno.
 
 
 ## 🧠 _Siempre aprendiendo_
@@ -61,7 +62,7 @@ TRABAJO SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE - SENA**
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,nextjs" />
   </a>
 </p>
 
