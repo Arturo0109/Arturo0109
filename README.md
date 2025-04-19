@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Pablo Arturo      
+# 👋 ¡Hola! Soy Juan Pablo Arturo
 🚀 **Programador Junior** | Buga, Valle del Cauca, Colombia  
 📱 **Amante de la Tecnología Móvil, Proyectos Innovadores y Full Stack**  
 
